@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Shva-Test/config/applicationhost.config
+/.vs/Shva-Test/FileContentIndex/10a3880f-7096-4aaa-ba9b-f1b4ec0c3a99.vsidx
+/.vs/Shva-Test/FileContentIndex/20adf9f9-82c2-401d-b15a-1f6cd3281dfb.vsidx
+/.vs/Shva-Test/FileContentIndex/34602cf6-edf9-4f4b-acd0-afe696d3fbe9.vsidx
+/.vs/Shva-Test/FileContentIndex/b03e07ea-674e-481d-818f-0eb1d6fdbece.vsidx
+/.vs/Shva-Test/FileContentIndex/e2d8a7b4-cdca-49ae-ba9f-9405c8463b70.vsidx
+/.vs/Shva-Test/v17/.wsuo
+/.vs/Shva-Test/v17/DocumentLayout.json
+/.vs/TCPListener/DesignTimeBuild/.dtbcache.v2
+/.vs/TCPListener/FileContentIndex/02befb6a-d4a4-4271-9ccb-c37e3d5d4af0.vsidx
+/.vs/TCPListener/FileContentIndex/072ea5c9-ad81-4bd5-89d0-fcb54e924a43.vsidx
+/.vs/TCPListener/FileContentIndex/5466bf21-c185-4ba9-a3a5-bc09ac7e1d16.vsidx
+/.vs/TCPListener/FileContentIndex/b62d6bed-ac62-4800-bd16-515deea42e15.vsidx
+/.vs/TCPListener/FileContentIndex/c91e3906-242f-4e04-982e-deadfafcbb73.vsidx
+/.vs/TCPListener/v17/.suo
+/.vs/TCPListener/v17/DocumentLayout.json
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/TCPListener/.vs/ProjectEvaluation/tcplistener.metadata.v7.bin
+/TCPListener/.vs/ProjectEvaluation/tcplistener.projects.v7.bin
